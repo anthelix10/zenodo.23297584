@@ -1,4 +1,4 @@
-Data and code for: **Residual Renewable Cash and Reserve for Battery Revenue Floors**
+Data and code for: **Renewable Cash Pooling and Reserve for Battery Revenue Floors**
 
 Supporting research materials are available in https://doi.org/10.5281/zenodo.23297584.
 
